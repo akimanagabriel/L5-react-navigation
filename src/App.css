@@ -1,0 +1,22 @@
+.navigation {
+  background-color: #000;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navigation a {
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  text-decoration: overline;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
